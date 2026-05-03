@@ -23,4 +23,4 @@ The dashboard explores:
 Haut-Commissariat au Plan (HCP), Morocco
 
 ## Dashboard Preview
-![Dashboard](dashboard.png)
+![Dashboard](Area & Gender Unemployment Analysis 2022-2025.png)
